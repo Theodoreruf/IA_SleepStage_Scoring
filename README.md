@@ -12,9 +12,9 @@ L'interprétation manuelle des signaux EEG pour classifier les stades de sommeil
 
 Mon modèle s'inspire de deux études :
 
-    SleepEEGNet : Cette méthode utilise des réseaux de neurones convolutifs (CNN) et un modèle séquence-à-séquence, combinant attention et réseaux de neurones récurrents bidirectionnels, offrant une grande précision dans l'annotation des stades de sommeil. [1]
+- SleepEEGNet : Cette méthode utilise des réseaux de neurones convolutifs (CNN) et un modèle séquence-à-séquence, combinant attention et réseaux de neurones récurrents bidirectionnels, offrant une grande précision dans l'annotation des stades de sommeil. [1]
 
-    CNN : Dans cette étude, les auteurs ont montré que les CNN pouvaient apprendre de manière autonome à distinguer les différents stades de sommeil sans connaissances préalables. [2]
+- CNN : Dans cette étude, les auteurs ont montré que les CNN pouvaient apprendre de manière autonome à distinguer les différents stades de sommeil sans connaissances préalables. [2]
 
 Bien que mon approche ne reproduise pas intégralement la première méthode, elle suit un processus similaire et met en lumière les défis rencontrés lors de l'application de méthodes de recherche complexes. Cela m'aide à comprendre l'application des concepts de deep learning dans des situations réelles.
 
